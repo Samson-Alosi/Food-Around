@@ -28,8 +28,7 @@ The website app requires a user to register, and utilizes the email to show food
 No bugs detected
 
 ## License
-Copyright (c) [2021] [
-Samson Alosi, 
+Copyright (c) [2021] [ 
 ODIWUOR, GEOFFREY                             
 Wanjihia, Peter
 Njoroge, Erastus
