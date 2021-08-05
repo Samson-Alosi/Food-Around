@@ -8,7 +8,7 @@ body {
 
 #wrap {
     margin-top: 100px;
-    margin-bottom: 166px;
+    margin-bottom: 16px;
     padding-left: 50px;
 }
 
@@ -88,7 +88,7 @@ label {
 footer {
     
     background-color: black;
-    height: 80%;
+    height: 40%;
     color: #E2C5EF;
     padding: 3%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
