@@ -4,51 +4,10 @@
     margin-top: 1%;
     margin-bottom: 1%;
 }
-.header {
-    background-color:#E2C5EF;
-    height: 80px;
-    overflow: hidden;
-}
-.logo {
-    width: 200px
-}
-@media screen and (min-widtg: 600px) {
-    .header {
-        height: fit-content;
-        float: none;
-        display: block;
-        text-align: left;
-        width: 100%;
-        margin: 0;
-        padding: 14px;
-    }
-}
-.header a {
-    text-decoration: none;
-    color: black;
-    float: left;
-    display: block;
-    text-align: left;
-    padding: 14px 16px;
-    font-size: 23px;
-}
-.anchors {
-    text-decoration: none;
-    color: black;
-    font-style: normal;
-    font-weight: bold;
-    font-size: x-large;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
-    margin-left: -200px; 
-    /* margin-right: 200px; */
-    text-align: justify;
-    width:50%;
-}
-#search {
-    margin-right:-400px;
-    width: fit-content;
-    padding: 2%;
+#nav {
+    background-color:#E2C5EF!important;
+    font-weight: 900!important;
+
 }
 footer {
     background-color: black;
