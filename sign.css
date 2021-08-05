@@ -1,0 +1,35 @@
+body {
+    background-image: url("./assets/signupbg.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 642px; 
+}
+
+#wrap {
+    margin-top: 160px;
+    padding-left: 50px;
+}
+
+#signup p{
+    font-size: 34px;
+    line-height: 38.08px;
+    color: #ea2020;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    padding: 0px 0px 4px;
+}
+
+#signin p{
+    font-size: 34px;
+    line-height: 38.08px;
+    color: #4A4392;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+
+}
+
+label {
+    font-weight: 450;
+    font-size: 20px;
+}
