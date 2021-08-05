@@ -1,0 +1,29 @@
+#contact {
+    background-color: #E2C5EF;
+    padding: 1% -50% 2% 10px;
+}
+
+#about {
+    padding: 3%;
+    text-align: justify;
+}
+
+h2 {
+    font-family: 'Cabin Sketch', cursive;
+    text-align: center;
+    margin-bottom: -1.5%;
+}
+
+.red {
+    color: #EA2020;
+    text-align: center;
+}
+
+.blue {
+    text-align: center;
+    color: #4A4392;
+}
+
+#aboutus {
+    margin: 8%;
+}
